@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Im an Aspiring Web Developer from California. 
+I;m an aspiring web developer from California. 
 ### More Information
 
-THis is a space for my projects and thoughts about web development from a newbie. 
+This is a space for my projects and thoughts about web development from a newbie. 
